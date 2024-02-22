@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1708620773 source:e:\iti9months\ds\project\salma\banksystem\main.cpp
+	<iostream>
+	"WaitingQueue.h"
+	"Bank.h"
+
+1708621219 e:\iti9months\ds\project\salma\banksystem\include\waitingqueue.h
+	<iostream>
+	"Node.h"
+
+1708621219 e:\iti9months\ds\project\salma\banksystem\include\node.h
+
+1708621689 e:\iti9months\ds\project\salma\banksystem\include\bank.h
+	<string>
+	"Customer.h"
+	<iostream>
+	<queue>
+	<windows.h>
+
+1708621174 e:\iti9months\ds\project\salma\banksystem\include\customer.h
+	<string>
+
